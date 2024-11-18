@@ -1,0 +1,4 @@
+First just install the virtual env and command is simple virtualenv env
+then run the server as python manage.py runserver
+virtualenv env
+python manage.py runserver
